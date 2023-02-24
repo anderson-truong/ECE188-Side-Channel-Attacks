@@ -1,2 +1,2 @@
-# ECE188-Side-Channel-Attacks
-UCLA ECE188 Side Channel Attacks
+# ECE188 Digital Side Channel Attacks
+exploiting memory and timing side channels in executables
